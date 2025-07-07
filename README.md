@@ -1,1 +1,2 @@
-# GIS
+Philadelphia continues to struggle with high rates of gun violence, ranking among the top U.S. cities for shootings in recent years. These events not only endanger residents but also put a heavy load on local hospitals and emergency responders, since quick access to trauma care is often crucial for survival.
+In this study, we map shooting incidents and nearby hospitals to see how well medical resources match the areas most affected by gun violence.
